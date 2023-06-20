@@ -48,6 +48,7 @@ class SyncStatusStatusEnum
     const FAILED = 'FAILED';
     const DISABLED = 'DISABLED';
     const PAUSED = 'PAUSED';
+    const PARTIALLY_SYNCED = 'PARTIALLY_SYNCED';
     
     /**
      * Gets allowable values of the enum
@@ -61,6 +62,7 @@ class SyncStatusStatusEnum
             self::FAILED,
             self::DISABLED,
             self::PAUSED,
+            self::PARTIALLY_SYNCED,
         ];
     }
 }
