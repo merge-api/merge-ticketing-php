@@ -1,6 +1,6 @@
 {
     "name": "merge-api/merge-ticketing-php",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "The unified API for building rich integrations with multiple Ticketing platforms.",
     "keywords": [
         "openapitools",
